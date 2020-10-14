@@ -1,0 +1,11 @@
+package br.com.alura.microservice.eureka;
+
+
+@SpringBootTest
+class EurekaServerApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
